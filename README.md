@@ -43,7 +43,7 @@ The API layer should be implemented in Python and use a modern, ASGI compliant w
 For the front-end part of the assignment, you will need to create a front-end application that satisfies the requirements stated in the Application Overview section.
 
 ### Project Setup
-We should be able to start the application using the `npm start` command. The app should use the latest major version of your front-end framework of choice.
+We should be able to start the application using the `npm start` command. The app should use the latest major version of your front-end framework of choice. Please make sure to use TypeScript where possible.
 
 ### External Libraries
 You are allowed to use any external library to complete this task. You are also allowed to use UI libraries. Please make sure that the application looks appealing, consistent, and has a good user experience.
